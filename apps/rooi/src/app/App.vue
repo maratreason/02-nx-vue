@@ -1,7 +1,9 @@
 <script setup lang="ts">
-import NxWelcome from "./NxWelcome.vue";
+import {HomePage} from "@rooi/pages";
 </script>
 
 <template>
-    <NxWelcome title="rooi" />
+    <HomePage />
 </template>
+
+<!-- Шаблон https://pixso.net/app/editor/I-OZFQU7qBVt5PSUsQ-u6w?icon_type=1&page-id=0%3A1 -->

@@ -1,5 +1,6 @@
 {
     "compileOnSave": false,
+    "require": ["tsconfig-paths/register"],
     "compilerOptions": {
         "rootDir": ".",
         "sourceMap": true,
