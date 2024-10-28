@@ -8,6 +8,7 @@ name: "HomePage";
 <template>
     <p>Welcome to Home!</p>
     <Button label="Submit" />
+    <hr>
 </template>
 
 <style scoped></style>
